@@ -4,4 +4,4 @@
 
 reference: https://www.npmjs.com/package/react-google-login
 
-<img scr="/google-login.png" alt="demo-google-login" width="600px" height="400px">
+<img src="google-login.png" alt="drawing" width="550" height="300"/>
